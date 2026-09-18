@@ -1,0 +1,137 @@
+{
+  "samples": {
+    "jpeg-before": {
+      "red": [
+        81,
+        90,
+        240
+      ],
+      "green": [
+        80,
+        91,
+        81
+      ],
+      "blue": [
+        41,
+        240,
+        110
+      ],
+      "gray": [
+        126,
+        128,
+        128
+      ]
+    },
+    "jpeg-after": {
+      "red": [
+        62,
+        102,
+        240
+      ],
+      "green": [
+        95,
+        85,
+        77
+      ],
+      "blue": [
+        32,
+        240,
+        117
+      ],
+      "gray": [
+        126,
+        128,
+        128
+      ]
+    },
+    "png-before": {
+      "red": [
+        63,
+        102,
+        240
+      ],
+      "green": [
+        95,
+        85,
+        77
+      ],
+      "blue": [
+        32,
+        240,
+        118
+      ],
+      "gray": [
+        126,
+        128,
+        128
+      ]
+    },
+    "png-after": {
+      "red": [
+        63,
+        102,
+        240
+      ],
+      "green": [
+        95,
+        85,
+        77
+      ],
+      "blue": [
+        32,
+        240,
+        118
+      ],
+      "gray": [
+        126,
+        128,
+        128
+      ]
+    }
+  },
+  "metadata": {
+    "jpeg-before": {
+      "width": 640,
+      "height": 360,
+      "pix_fmt": "yuv420p",
+      "color_range": "tv",
+      "color_space": "bt709",
+      "nb_frames": "30"
+    },
+    "jpeg-after": {
+      "width": 640,
+      "height": 360,
+      "pix_fmt": "yuv420p",
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "nb_frames": "30"
+    },
+    "png-before": {
+      "width": 640,
+      "height": 360,
+      "pix_fmt": "yuv420p",
+      "color_range": "tv",
+      "color_space": "bt709",
+      "nb_frames": "30"
+    },
+    "png-after": {
+      "width": 640,
+      "height": 360,
+      "pix_fmt": "yuv420p",
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709",
+      "nb_frames": "30"
+    }
+  },
+  "decoded_yuv_sha256": {
+    "jpeg-before": "5510f3e2c954c5f1c996e6c1f5a089fe8ea78980101b80f3e9ae96a50100759a",
+    "jpeg-after": "353245f3ee35d9c7a931c66f7c47dad8f5d727827f494bb20e4da2234308a9cf",
+    "png-before": "57a8aca58204a0a71843d1b73e42f90f574aa219f71e892d171c77b11d91a1da",
+    "png-after": "57a8aca58204a0a71843d1b73e42f90f574aa219f71e892d171c77b11d91a1da"
+  },
+  "png_before_after_identical_all_frames": true
+}
